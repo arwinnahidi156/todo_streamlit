@@ -3,5 +3,5 @@ fix the bugs
 do some push ups
 go for a run
 use streamlit
-read about django vs streamlit
+read about django rest frameworks
 do the dishes
